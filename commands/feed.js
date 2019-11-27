@@ -3,22 +3,10 @@ const Whalestatus = require('./whalestatus.js');
 
 module.exports = {
     name: 'feed',
-    cooldown: 3,
 	description: 'Feed mr whale to restore his hunger',
 	execute(message, args) {
 
         myArray = [
-            "smileywhale",
-            "Smileywhale",
-            "thanks",
-            "yum",
-            "yummy",
-            "smileydog",
-            "smileycat",
-            ":smiley_dog:",
-            ":smiley_cat:",
-            "I love you!",
-            "tasty!",
             `thanks for feeding me ${args[0]}`
           ]
 

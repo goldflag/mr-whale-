@@ -20,11 +20,17 @@ let krill = [];
 module.exports = { fish, squid, krill };
 
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
+const stickerCommandFiles = fs.readdirSync('./commands/stickers').filter(file => file.endsWith('.js'));
 
 for (const file of commandFiles) {
 	const command = require(`./commands/${file}`);
 	// set a new item in the Collection
 	// with the key as the command name and the value as the exported module
+    client.commands.set(command.name, command);
+}
+
+for (const file of stickerCommandFiles) {
+	const command = require(`./commands/stickers/${file}`);
     client.commands.set(command.name, command);
 }
 
@@ -40,28 +46,37 @@ client.once('ready', () => {
     client.users.forEach(user => {
         Functions.checkPlayer(user);
     }); 
-    
-    //mr whale hunger is updated every 100 seconds
-    setInterval(Functions.hunger, 100000);
 
-    //Fish spawns are calculated every 60 seconds
+    //mr whale hunger is updated every 50 min
+    setInterval(function() { 
+        Functions.hunger(client)
+    }, 3000000);
+
+    //sends message if mr whale's hunger is low. Checked every 50 minutes
+    setInterval(function() { 
+        Functions.hungerMessage(client);
+    }, 3000000);
+
+    //Fish spawns are calculated every 50 min
     setInterval(function() { 
        Functions.fishSpawn(client, fish, squid, krill);                      
-    }, 6000);
+    }, 3000000);
 
-    //Fish despawns are calculated every 60 seconds
+    //Fish despawns are calculated every 10 min
     setInterval(function() { 
         if (fish.length > 0 || squid.length > 0 || krill.length > 0) {
             Functions.fishDespawn(client, fish, squid, krill);             
         }
-        
-    }, 1000);
+    }, 600000);
+
+    //mr whale sometimes finds food on his own every 80.333 min
+    setInterval(function() { 
+        Functions.whaleFeed(client);                      
+     }, 5000000);
 
 });
 
 client.on('error', console.error);
-
-//keyv.on('error', err => console.error('Keyv connection error:', err));
 
 client.on('message', (message) => {
     console.log(`${message.member.displayName}: ${message.content}`);
@@ -109,6 +124,7 @@ client.on('message', (message) => {
     }
 });
 
+/*
 client.on('guildMemberAdd', member => {
     Functions.checkPlayer(member);
     // Send the message to a designated channel on a server:
@@ -118,5 +134,5 @@ client.on('guildMemberAdd', member => {
     // Send the message, mentioning the member
     channel.send(`Welcome to the server, ${member}`);
   });
-  
+  */
 client.login(token);

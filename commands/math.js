@@ -4,17 +4,7 @@ module.exports = {
 	name: 'math',
 	description: 'Does math using the eval() function',
 	execute(message, args) {
-        /*
-        if (args.toUpperCase().includes("bill") && args.toUpperCase().includes("jessica")) {
-            message.channel.send("❤️");
-            return;
-        }
-        if (arg == (`${prefix}what is 10/10`)) {
-            message.channel.send("Jessica");
-            return;
-        }
-        */
-       console.log('test');
+        console.log('test');
         let str = args.toString();
         str = str.replace(/\s/g, '');
         str = str.replace(/[^*+-/1234567890()]/g, ''); 

@@ -11,11 +11,11 @@ module.exports = {
             message.channel.send(`${message.member}, ${hungerRate} isn't an integer`);
             return;
         }
-        if (hungerRate < 5) {
-            hungerRate = 5;
+        if (hungerRate < 1) {
+            hungerRate = 1;
         }
-        else if (hungerRate > 75) {
-            hungerRate = 75;
+        else if (hungerRate > 100) {
+            hungerRate = 100;
         }
         whaleData[`hungerRate`] = parseInt(hungerRate);
         whaleData = JSON.stringify(whaleData);

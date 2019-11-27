@@ -1,0 +1,352 @@
+{
+    "trivia": [{
+        "question": "What is the capital of India?",
+        "answers": ["Mumbai", "Kolkata", "Delhi","Bangalore"],
+        "correct": "Delhi"
+    },
+    {
+        "question": "Which river is the longest?",
+        "answers": ["Amazon", "Yellow River", "Mekong", "Euphrates"],
+        "correct": "Amazon"
+    },
+    {
+        "question": "What language is primarily spoken in Belarus?",
+        "answers": ["Belarussian", "Polish", "Russian", "Ukrainian"],
+        "correct": "Russian"
+    },
+    {
+        "question": "Which country has the highest population density?",
+        "answers": ["Switzerland", "Kenya", "Vietnam", "France"],
+        "correct": "Vietnam"
+    },
+    {
+        "question": "Which country has the lowest population density?",
+        "answers": ["Jordan", "Guatemala", "Chile", "Iceland"],
+        "correct": "Iceland"
+    },
+    {
+        "question": "Which country has the longest coastline",
+        "answers": ["Russia", "Canada", "Australia", "China"],
+        "correct": "Canada"
+    },
+    {
+        "question": "What is the capital of Armenia?",
+        "answers": ["Bataysk", "Baku", "Yerevan", "Tbilisi"],
+        "correct": "Yerevan"
+    },
+    {
+        "question": "The Chukchi Sea is north of which sea?",
+        "answers": ["White Sea", "Bering Sea", "Norwegian Sea", "Beaufort Sea"],
+        "correct": "Bering Sea"
+    },
+    {
+        "question": "Where is the Levantine Basin found?",
+        "answers": ["North Pacific Ocean", "Arctic Ocean", "Mediterranean Sea", "South Atlantic Ocean"],
+        "correct": "Mediterranean Sea"
+    },
+    {
+        "question": "The Chalbi Desert and Cherangany Hills are found in which country?",
+        "answers": ["Tanzania", "Democratic Republic of the Congo", "Kenya", "South Sudan"],
+        "correct": "Kenya"
+    },
+    {
+        "question": "Which country occupies most of Cisjordan?",
+        "answers": ["Israel", "Jordan", "Egypt", "Turkey"],
+        "correct": "Israel"
+    },
+    {
+        "question": "The Baikonur Cosmodrome, Russia's main space launch facility, is located in which country?",
+        "answers": ["Kazakhstan", "Uzbekistan", "Kyrgyzstan", "Turkmenistan"],
+        "correct": "Kazakhstan"
+    },
+    {
+        "question": "Lebanon gained independence from which country in 1943?",
+        "answers": ["Spain", "United Kingdom", "France", "Germany"],
+        "correct": "France"
+    },
+    {
+        "question": "The TauTona Gold Mine is the world's deepest mine; in which country can it be found?",
+        "answers": ["South Africa", "Uganda", "Bolivia", "Brazil"],
+        "correct": "South Africa"
+    },
+    {
+        "question": "Rarotonga is an island of which country?",
+        "answers": ["Tonga", "United States", "Fiji", "New Zealand"],
+        "correct": "New Zealand"
+    },
+    {
+        "question": "The border between Wales and England lies near which line on longitude?",
+        "answers": ["One degree west", "Three degrees west", "Five degrees west", "Seven degrees west"],
+        "correct": "Three degrees west"
+    },
+    {
+        "question": "The Isles of Scilly are an archipelago off the tip of which cape?",
+        "answers": ["Cape Cornwall", "Cape Coral", "Cape Horn", "Cape Canaveral"],
+        "correct": "Cape Cornwall"
+    },
+    {
+        "question": "Within which country can two other independent countries be found?",
+        "answers": ["Italy", "South Africa", "Canada", "Russia"],
+        "correct": "Italy"
+    },
+    {
+        "question": "The Electoral Palatinate was a historic region along which river?",
+        "answers": ["Dneiper", "Ural", "Danube", "Rhine"],
+        "correct": "Rhine"
+    },
+    {
+        "question": "Pilbara is a region in which Australian state?",
+        "answers": ["Western Australia", "Queensland", "New South Wales", "Tasmania"],
+        "correct": "Western Australia"
+    },
+    {
+        "question": "Which of these U.S. states does NOT border Canada?",
+        "answers": ["Minnesota", "Alaska", "Maine", "Indiana"],
+        "correct": "Indiana"
+    },
+    {
+        "question": "Which of these countries was NOT a part of the Soviet Union?",
+        "answers": ["Ukraine", "Belarus", "Poland", "Georgia"],
+        "correct": "Poland"
+    },    
+    {
+        "question": "Which of these cities is NOT a national capital?",
+        "answers": ["Prague", "Sydney", "Cairo", "Bangkok"],
+        "correct": "Sydney"
+    },
+    {
+        "question": "Which of these cities DOESN'T border the Mediterranean Sea?",
+        "answers": ["Alexandria", "Lisbon", "Barcelona", "Monaco"],
+        "correct": "Lisbon"
+    },
+    {
+        "question": "Which of these countries was NEVER part of the British Empire?",
+        "answers": ["Kenya", "Thailand", "Ireland", "New Zealand"],
+        "correct": "Thailand"
+    },
+    {
+        "question": "Which one of these cities is NOT in the Southern Hemisphere?",
+        "answers": ["Colombo", "Johannesburg", "Brasilia", "Brisbane"],
+        "correct": "Colombo"
+    },
+    {
+        "question": "Which one of these countries is NOT in Central America?",
+        "answers": ["Belize", "Suriname", "Honduras", "Panama"],
+        "correct": "Suriname"
+    },
+    {
+        "question": "Which of these cities does NOT border the Great Lakes?",
+        "answers": ["Pittsburgh", "Cleveland", "Toronto", "Chicago"],
+        "correct": "Pittsburgh"
+    },
+    {
+        "question": "Which of these countries is NOT majority-Muslim?",
+        "answers": ["Morocco", "Indonesia", "Albania", "Ethiopia"],
+        "correct": "Ethiopia"
+    },
+    {
+        "question": "Which of these countries is NOT recognized by the United Nations?",
+        "answers": ["Israel", "Iran", "Taiwan", "Cyprus"],
+        "correct": "Taiwan"
+    },
+    {
+        "question": "Which of these mountain ranges is NOT in Europe?",
+        "answers": ["The Pyrenees", "Carpathian Mountains", "Atlas Mountains", "The Alps"],
+        "correct": "Atlas Mountains"
+    },
+    {
+        "question": "Which of these things is NOT located in Africa?",
+        "answers": ["Aswan Dam", "Lake Victoria", "Zambezi River", "Gobi Desert"],
+        "correct": "Gobi Desert"
+    },
+    {
+        "question": "Which of these countries is NOT one of the top 20 oil producers?",
+        "answers": ["Iraq", "Morocco", "Norway", "United States"],
+        "correct": "Morocco"
+    },
+    {
+        "question": "Which of these cities is NOT in India?",
+        "answers": ["Chennai", "Bangalore", "Bhopal", "Karachi"],
+        "correct": "Karachi"
+    },
+    {
+        "question": "Which of these countries does NOT have only one border?",
+        "answers": ["Haiti", "Ireland", "Portugal", "North Korea"],
+        "correct": "North Korea"
+    },
+    {
+        "question": "What is the 'Sea' to the west of the North-West Malaysian Peninsula?",
+        "answers": ["Bengal Sea", "Andaman Sea", "Macassar Sea", "Malacca Sea"],
+        "correct": "Andaman Sea"
+    },
+    {
+        "question": "Vilnius is the Capital City of which Country?",
+        "answers": ["Liechtenstein", "Moldova", "Macedonia", "Lithuania"],
+        "correct": "Lithuania"
+    },
+    {
+        "question": "What 3 Countries have the 1st 2nd & 3rd Longest Coastlines?",
+        "answers": ["Canada / Greenland / Norway", "Canada / Norway / Indonesia", "Norway / Indonesia / Greenland", "Canada / Russia / Indonesia"],
+        "correct": "Canada / Norway / Indonesia"
+    },
+    {
+        "question": "Which of these 'Regions' lies in the Southern Hemisphere?",
+        "answers": ["Kamchatka", "Prince Edward Island", "Tierra del Fuego", "Moray"],
+        "correct": "Tierra del Fuego"
+    },
+    {
+        "question": "What is the 'Radius' of the Earth (in kilometres)?",
+        "answers": ["6,371 km ( 3,959 miles)", "8,284 km ( 5,147 miles)", "12,228 km ( 7,598 miles)", "4,772 km ( 2,965 miles)"],
+        "correct": "6,371 km ( 3,959 miles)"
+    },
+    {
+        "question": "What is the Capital of Tanzania?",
+        "answers": ["Kampala", "Maputo", "Malabo", "Dodoma"],
+        "correct": "Dodoma"
+    },
+    {
+        "question": "'Mariana Trench' is the deepest ocean location: How deep is it in kilometres?",
+        "answers": ["7.64 Kilometre ............( 4.75 miles) ( 20,902 ft )", "10,92 Kilometre......... ( 6.79 miles) ( 35,827 ft )", "8.5 Kilometre ........ ( 5.28 miles) ( 27,887 ft )", "6.90 Kilometre ...........( 4.29 miles) (22,638 ft )"],
+        "correct": "10,92 Kilometre......... ( 6.79 miles) ( 35,827 ft )"
+    },
+    {
+        "question": "Which of these 4 countries is the largest in area ?",
+        "answers": ["Kazakhstan", "Algeria", "Mexico", "Iran"],
+        "correct": "Kazakhstan"
+    },
+    {
+        "question": "With 135 million inhabitants, what is the most populous Island?",
+        "answers": ["Great Britain", "Sri Lanka", "Java", "Australia"],
+        "correct": "Java"
+    },
+    {
+        "question": "The 'Taj Mahal' sits on the bank of which river?",
+        "answers": ["Yamuna", "Ganges", "Indus", "Irrawaddy"],
+        "correct": "Yamuna"
+    },
+    {
+        "question": "The largest lake in the UK is?",
+        "answers": ["Lake Windermere", "Loch Lomond", "Lough Neagh", "Loch Ness"],
+        "correct": "Lough Neagh"
+    },
+    {
+        "question": "Which large City is on an island off the Southern Tip of the Malay Peninsula",
+        "answers": ["Macau", "Hong Kong", "Manila", "Singapore"],
+        "correct": "Singapore"
+    },
+    {
+        "question": "The Capital City of New Zealand is the worlds most Southern Capital City, what is it?",
+        "answers": ["Auckland", "Wellington", "Nelson", "Christchurch"],
+        "correct": "Wellington"
+    },
+    {
+        "question": "The White and Blue Nile meet at which Sudanese City?",
+        "answers": ["Juba", "Khartoum", "Aswan", "Wadi Halfa"],
+        "correct": "Khartoum"
+    },
+    {
+        "question": "Which Caribbean Country's Flag shows black and yellow triangles representing its volcanic mountains?",
+        "answers": ["Saint Lucia", "Antigua and Barbuda", "Grenada", "Trinidad and Tobago"],
+        "correct": "Saint Lucia"
+    },
+    {
+        "question": "The British Island of 'Tristan da Cunha' is located in which Ocean?",
+        "answers": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+        "correct": "Atlantic Ocean"
+    },
+    {
+        "question": "In which 3 Countries is the 'Kalahari Desert' located?",
+        "answers": ["Botswana / Angola / Namibia", "Namibia / Botswana / Angola", "South Africa / Botswana / Namibia", "Namibia / Angola / South Africa"],
+        "correct": "South Africa / Botswana / Namibia"
+    },
+    {
+        "question": "The Capital of Pakistan is?",
+        "answers": ["Karachi", "Islamabad", "Lahore", "Quetta"],
+        "correct": "Islamabad"
+    },
+    {
+        "question": "Only 2 of the 13 countries of South America have no coastline, they are?",
+        "answers": ["Colombia and Bolivia", "Uruguay and Ecuador", "Paraguay and Guyana", "Bolivia and Paraguay"],
+        "correct": "Bolivia and Paraguay"
+    },
+    {
+        "question": "Which UK City has a bigger 'Canal System' than Venice?",
+        "answers": ["Birmingham", "London", "Manchester", "Edinburgh"],
+        "correct": "Birmingham"
+    },
+    {
+        "question": "Which of these countries has the largest population?",
+        "answers": ["Germany", "Russia", "Brazil", "Iran"],
+        "correct": "Brazil"
+    },
+    {
+        "question": "Which of these mountain ranges has the highest maximum elevation?",
+        "answers": ["Urals", "Alps", "Rockies", "Andes"],
+        "correct": "Andes"
+    },
+    {
+        "question": "Which of these rivers flows past the most countries?",
+        "answers": ["Amazon", "Danube", "Euphrates", "Mississippi"],
+        "correct": "Danube"
+    },
+    {
+        "question": "Which of these cities has the highest population?",
+        "answers": ["Shanghai", "Mumbai", "New York City", "Tokyo"],
+        "correct": "Tokyo"
+    },
+    {
+        "question": "Which of these cities is at the highest latitude? (i.e. the furthest north)",
+        "answers": ["Paris", "London", "New York City", "Beijing"],
+        "correct": "London"
+    },
+    {
+        "question": "Which of these bodies of water has the largest surface area?",
+        "answers": ["Black Sea", "Persian Gulf", "Red Sea", "Gulf of Mexico"],
+        "correct": "Gulf of Mexico"
+    },
+    {
+        "question": "Which of these islands has the largest area?",
+        "answers": ["Great Britain", "Cuba", "Madagascar", "Iceland"],
+        "correct": "Madagascar"
+    },
+    {
+        "question": "Which of these capital cities gets the most rain?",
+        "answers": ["Kuala Lumpur", "Wellington", "Washington D.C.", "Mexico City"],
+        "correct": "Kuala Lumpur"
+    },
+    {
+        "question": "Which of these countries has the highest percentage of Catholics?",
+        "answers": ["Germany", "France", "Poland", "Russia"],
+        "correct": "Poland"
+    },
+    {
+        "question": "Which of these countries has the highest fertility rate?",
+        "answers": ["India", "Mexico", "Canada", "Tanzania"],
+        "correct": "Tanzania"
+    },
+    {
+        "question": "Which of these countries has the highest life expectancy?",
+        "answers": ["Japan", "Argentina", "United Kingdom", "Norway"],
+        "correct": "Japan"
+    },
+    {
+        "question": "Which of these countries was uninhabited in the year 1 AD?",
+        "answers": ["Kenya", "Australia", "Iceland", "Venezuela"],
+        "correct": "Iceland"
+    },
+    {
+        "question": "Which of these countries has a shrinking population?",
+        "answers": ["Romania", "United States", "Kenya", "Pakistan"],
+        "correct": "Romania"
+    },
+    {
+        "question": "Which of these countries is located in Indochina?",
+        "answers": ["Cambodia", "Papua New Guinea", "Philippines", "India"],
+        "correct": "Cambodia"
+    },
+    {
+        "question": "Magyars are the people of which country?",
+        "answers": ["Slovakia", "Romania", "Hungary", "Moldova"],
+        "correct": "Hungary"
+    }]
+}
